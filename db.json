@@ -1,4 +1,5 @@
-[
+{
+  "artikel" : [
   {
     "id": 1,
     "name": "NANA",
@@ -24,3 +25,4 @@
     "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/image/team1.jpg"
   }
 ]
+}
