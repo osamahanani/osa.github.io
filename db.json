@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "First Item",
+    "kategori": "Music",
+    "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "New Second",
+    "kategori": "Creative",
+    "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Number Three",
+    "kategori": "Responsive",
+    "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Fourth Item",
+    "kategori": "Creative",
+    "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Active Five",
+    "kategori": "Music",
+    "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Another Six",
+    "kategori": "Responsive",
+    "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "New Seven",
+    "kategori": "Creative",
+    "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Eighth Item",
+    "kategori": "Music",
+    "img": "https://raw.githubusercontent.com/mahe62/mahe62.github.io/master/img/p8.jpg"
+  }
+]
