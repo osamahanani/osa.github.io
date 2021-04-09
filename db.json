@@ -28,11 +28,5 @@
     "name": "JULIE",
     "posisi": "Frontend Developer",
     "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/image/team2.jpg"
-  },
-  {
-    "id": 6,
-    "name": "MAR",
-    "posisi": "UX Designer",
-    "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/image/team3.jpg"
   }
 ]
