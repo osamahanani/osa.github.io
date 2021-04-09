@@ -22,11 +22,5 @@
     "name": "LINA",
     "posisi": "Creative Director",
     "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/image/team1.jpg"
-  },
-  {
-    "id": 5,
-    "name": "JULIE",
-    "posisi": "Frontend Developer",
-    "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/image/team2.jpg"
   }
 ]
