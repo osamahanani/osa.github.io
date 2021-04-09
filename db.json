@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "name": "LINDA",
+    "name": "NANA",
     "posisi": "Creative Director",
     "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/image/team1.jpg"
   },
   {
     "id": 2,
-    "name": "JULIA",
+    "name": "RAINA",
     "posisi": "UX Designer",
     "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/image/team2.jpg"
   },
   {
     "id": 3,
-    "name": "MARY",
+    "name": "DELA",
     "posisi": "Frontend Developer",
     "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/image/team3.jpg"
   },
