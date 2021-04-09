@@ -4,25 +4,25 @@
     "id": 1,
     "name": "NANA",
     "posisi": "Creative Director",
-    "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/image/team1.jpg"
+    "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/images/team1.jpg"
   },
   {
     "id": 2,
     "name": "RAINA",
     "posisi": "UX Designer",
-    "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/image/team2.jpg"
+    "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/images/team2.jpg"
   },
   {
     "id": 3,
     "name": "DELA",
     "posisi": "Frontend Developer",
-    "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/image/team3.jpg"
+    "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/images/team3.jpg"
   },
   {
     "id": 4,
     "name": "LINA",
     "posisi": "Creative Director",
-    "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/image/team1.jpg"
+    "image": "https://raw.githubusercontent.com/osamahanani/osa.github.io/main/images/team1.jpg"
   }
 ]
 }
